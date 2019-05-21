@@ -31,6 +31,24 @@ body{
     font-size: 4rem;
 }
 
+.blurb h2{
+    color: red;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.lead{
+    color: palevioletred;
+    font-weight: 100;
+    font-size: 1.25rem;
+    line-height: 2;
+
+}
+
+.content{
+    margin-top: 100px;
+}
+
 @media (max-width: 1400px){
     #heading-group h1{
         font-weight: 100;
