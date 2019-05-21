@@ -45,6 +45,11 @@ body{
 
 }
 
+.navbar.scrolled{
+    background: rgb(222,192,222);
+    transition: 0.5s;
+}
+
 .content{
     margin-top: 100px;
 }
